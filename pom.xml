@@ -11,10 +11,7 @@
          <maven.compiler.source>1.6</maven.compiler.source>
          <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
-         <id>zip</id>
-     <formats>
-       <format>zip</format>
-     </formats>
+         
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
